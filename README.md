@@ -1,3 +1,3 @@
-Supporting Information for "electrostatic embedding of machine learning potentials"
+Supporting Information for ["Electrostatic Embedding of Machine Learning Potentials"](https://doi.org/10.26434/chemrxiv-2022-rknwt).
 
-- `params.mat`: model parameters
+All the required tarballs can be found at https://doi.org/10.5281/zenodo.7048725.
