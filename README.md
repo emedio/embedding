@@ -1,4 +1,4 @@
-Supporting Information for ["Electrostatic Embedding of Machine Learning Potentials"](https://doi.org/10.26434/chemrxiv-2022-rknwt).
+Supporting Information for ["Electrostatic Embedding of Machine Learning Potentials"](https://doi.org/10.26434/chemrxiv-2022-rknwt-v3).
 
 All the required files can be found at https://doi.org/10.5281/zenodo.7051785.
 
